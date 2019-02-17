@@ -1,5 +1,9 @@
 # AWS Scala Serverless Travis CI Guide
 
+![alt text](img/title.png "Serverless Lambda Tools")
+
+A detailed [medium post can be found here](https://medium.com/@5tigerjelly/the-ultimate-scala-serverless-lambda-deployment-using-travis-ci-18ddc681769f)
+
 ## Serverless Framework
 
 ```
